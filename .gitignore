@@ -5,3 +5,7 @@ projeto_altium/prj/History
 projeto_altium/lib/History
 projeto_altium/sch/__Previews
 
+projeto_altium/prj/Datalogger.$$$
+*.LOG
+projeto_altium/sim/project_sim_config.simcfg
+projeto_altium/prj/Project Outputs for Datalogger/Datalogger.nsx
