@@ -1,0 +1,25 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=datalogger.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=Controller.SchDoc
+UniqueIDPath1=\ELMSURZR
+SheetNumber1=2
+DocumentName2=PowerSupply.SchDoc
+UniqueIDPath2=\NIZAMLTY
+SheetNumber2=3
+DocumentName3=TemperatureSensor.SchDoc
+UniqueIDPath3=\AMEUTVZQ
+SheetNumber3=4
+DocumentName4=LightingSensor.SchDoc
+UniqueIDPath4=\JUEFKIBW
+SheetNumber4=5
+DocumentName5=MicroSD.SchDoc
+UniqueIDPath5=\NLIGYDKK
+SheetNumber5=6
+
+
