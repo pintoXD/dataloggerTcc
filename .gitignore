@@ -9,3 +9,4 @@ projeto_altium/prj/Datalogger.$$$
 *.LOG
 projeto_altium/sim/project_sim_config.simcfg
 projeto_altium/prj/Project Outputs for Datalogger/Datalogger.nsx
+projeto_altium/misc/History/*.SchDot.Zip
