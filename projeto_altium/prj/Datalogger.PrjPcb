@@ -107,7 +107,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
@@ -124,7 +124,7 @@ AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=2
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -141,7 +141,7 @@ AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -175,7 +175,7 @@ AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=4
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -192,7 +192,7 @@ AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=5
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -209,7 +209,7 @@ AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=6
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -239,37 +239,41 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for Datalogger\Datalogger.nsx
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Datalogger\Design Rule Check - datalogger.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=VersionRevision
-Value=1.0
-
-[Parameter2]
-Name=Project
-Value=Datalogger
-
-[Parameter3]
-Name=MY_EMAIL
-Value=ottolopes20@gmail.com
-
-[Parameter4]
-Name=E-Mail
-Value==MY_EMAIL
-
-[Parameter5]
-Name=DrawnBy
+Name=CheckedBy
 Value=Otto Pinto
 
-[Parameter6]
-Name=DocumentNumber
-Value=1
-
-[Parameter7]
+[Parameter2]
 Name=Company
 Value=UFC
 
-[Parameter8]
-Name=CheckedBy
+[Parameter3]
+Name=DocumentNumber
+Value=1
+
+[Parameter4]
+Name=DrawnBy
 Value=Otto Pinto
+
+[Parameter5]
+Name=E-Mail
+Value==MY_EMAIL
+
+[Parameter6]
+Name=MY_EMAIL
+Value=ottolopes20@gmail.com
+
+[Parameter7]
+Name=Project
+Value=Datalogger
+
+[Parameter8]
+Name=VersionRevision
+Value=1.0
 
 [Configuration1]
 Name=Sources
@@ -1261,97 +1265,97 @@ ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=lib_datalogger.SchLib
 ComponentDesignItemID1=CAP CER 0.1uF 25V 0805 SMD
 ComponentSymbolReference1=CAP CER 0.1uF 25V 0805 SMD
-ComponentUpdate1=1
+ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=lib_datalogger.SchLib
 ComponentDesignItemID2=CAP CER 22uF 6V3 0805 SMD
 ComponentSymbolReference2=CAP CER 22uF 6V3 0805 SMD
-ComponentUpdate2=1
+ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=lib_datalogger.SchLib
 ComponentDesignItemID3=IC ESP32 S3 WROOM-1_v2
 ComponentSymbolReference3=IC ESP32 S3 WROOM-1_v2
-ComponentUpdate3=1
+ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=lib_datalogger.SchLib
 ComponentDesignItemID4=IC MOSFET P_CHANNEL 500mA
 ComponentSymbolReference4=IC MOSFET P_CHANNEL 500mA
-ComponentUpdate4=1
+ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=lib_datalogger.SchLib
 ComponentDesignItemID5=IC REG LDO 3V3 1A
 ComponentSymbolReference5=IC REG LDO 3V3 1A
-ComponentUpdate5=1
+ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name Only
 ComponentLibraryIdentifier6=Mobit Brasil Ltda
 ComponentDesignItemID6=CMP-002-00049-3
 ComponentSymbolReference6=CMP-00040-6
-ComponentUpdate6=1
+ComponentUpdate6=0
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name Only
 ComponentLibraryIdentifier7=Mobit Brasil Ltda
 ComponentDesignItemID7=CMP-002-00076-1
 ComponentSymbolReference7=Pin Header 2POS
-ComponentUpdate7=1
+ComponentUpdate7=0
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name Only
 ComponentLibraryIdentifier8=Mobit Brasil Ltda
 ComponentDesignItemID8=CMP-004-000075-2
 ComponentSymbolReference8=Symbol
-ComponentUpdate8=1
+ComponentUpdate8=0
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name Only
 ComponentLibraryIdentifier9=Mobit Brasil Ltda
 ComponentDesignItemID9=CMP-008-000014-1
 ComponentSymbolReference9=Symbol
-ComponentUpdate9=1
+ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name Only
 ComponentLibraryIdentifier10=Mobit Brasil Ltda
 ComponentDesignItemID10=CMP-009-00001-6
 ComponentSymbolReference10=RES-2
-ComponentUpdate10=1
+ComponentUpdate10=0
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name Only
 ComponentLibraryIdentifier11=Mobit Brasil Ltda
 ComponentDesignItemID11=CMP-013-000009-1
 ComponentSymbolReference11=RES ARRAY 8 RES 10K OHM 1606 SMD
-ComponentUpdate11=1
+ComponentUpdate11=0
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name Only
 ComponentLibraryIdentifier12=Mobit Brasil Ltda
 ComponentDesignItemID12=CMP-017-000003-1
 ComponentSymbolReference12=LDR GL5506(4-7K) SMD
-ComponentUpdate12=1
+ComponentUpdate12=0
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name Only
 ComponentLibraryIdentifier13=Mobit Brasil Ltda
 ComponentDesignItemID13=CMP-018-000030-1
 ComponentSymbolReference13=Symbol
-ComponentUpdate13=1
+ComponentUpdate13=0
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name Only
 ComponentLibraryIdentifier14=Mobit Brasil Ltda
 ComponentDesignItemID14=CMP-018-000099-1
 ComponentSymbolReference14=Symbol
-ComponentUpdate14=1
+ComponentUpdate14=0
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name Only
 ComponentLibraryIdentifier15=Mobit Brasil Ltda
 ComponentDesignItemID15=CMP-019-000011-1
 ComponentSymbolReference15=SWITCH TACTILE SPST-NO 0.05A 12V SMD
-ComponentUpdate15=1
+ComponentUpdate15=0
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name Only
 ComponentLibraryIdentifier16=Mobit Brasil Ltda
 ComponentDesignItemID16=CMP-023-000042-1
 ComponentSymbolReference16=IC HDC1080 TEMP/HUMID SENSOR 6-PWSON
-ComponentUpdate16=1
+ComponentUpdate16=0
 ComponentIsDeviceSheet16=0
 FullReplace=1
 UpdateDesignatorLock=1
