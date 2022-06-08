@@ -1,7 +1,10 @@
 Protel Design System Design Rule Check
-PCB File : D:\Documentos\repos\GitHub\projeto_altium\pcb\datalogger.PcbDoc
-Date     : 09/04/2022
-Time     : 00:59:53
+PCB File : C:\Users\ottosousa\Documents\Pessoal\dataloggerTcc\projeto_altium\pcb\datalogger.PcbDoc
+Date     : 08/06/2022
+Time     : 12:52:48
+
+Processing Rule : Clearance Constraint (Gap=1mil) (InNetClass('SD_CLASS') OR InComponent('AR600')),(All)
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=5mil) (InComponent('SKT600')),(All)
 Rule Violations :0
@@ -9,16 +12,11 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=5mil) (InComponent('AR600')),(All)
-Rule Violations :0
-
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (not(InComponent('CON102') or InComponent('SW100'))) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad CON102-1(1655mil,1510mil) on Multi-Layer And Pad SW100-2(3695mil,1590mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net VCC_BAT Between Pad CON102-2(1555mil,1510mil) on Multi-Layer And Pad SW100-1(3415mil,1580mil) on Multi-Layer 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -27,6 +25,9 @@ Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=5mil) (Max=20mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=30mil) (Preferred=20mil) (InNetClass('PWR_CLASS'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -60,6 +61,7 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 2
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+PCB Health Issues : 0
+Time Elapsed        : 00:00:01
