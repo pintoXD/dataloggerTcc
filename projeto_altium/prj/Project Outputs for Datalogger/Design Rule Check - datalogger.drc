@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\ottosousa\Documents\Pessoal\dataloggerTcc\projeto_altium\pcb\datalogger.PcbDoc
-Date     : 09/06/2022
-Time     : 15:03:18
+Date     : 12/06/2022
+Time     : 00:28:23
 
 Processing Rule : Clearance Constraint (Gap=1mil) (InNetClass('SD_CLASS') OR InComponent('AR600')),(All)
 Rule Violations :0
