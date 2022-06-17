@@ -1,0 +1,10 @@
+Output: Electrical Rules Check
+Type  : ERC
+From  : Project [Datalogger.PrjPcb]
+   Generated File[Datalogger.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:11:53 On 17/06/2022
