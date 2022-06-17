@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [datalogger.PcbDoc]
+   Generated File[Datalogger.txt]
+   Generated File[Datalogger.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 12:35:03 On 17/06/2022

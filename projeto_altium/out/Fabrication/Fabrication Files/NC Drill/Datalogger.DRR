@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: datalogger.PcbDoc   17/06/2022  12:31:38
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Datalogger.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             12        PTH        0.53inch (13.35mm)
+T2      10mil (0.254mm)                                           Round             34        PTH        10.62inch (269.67mm)
+T3      26mil (0.66mm)                                            Round             2         PTH        0.12inch (3.00mm)
+T4      28mil (0.711mm)                                           Round             10        PTH        2.99inch (75.87mm)
+T5      35mil (0.889mm)                                           Round             4         PTH        0.68inch (17.27mm)
+T6      38mil (0.965mm)                                           Round             8         PTH        2.84inch (72.06mm)
+T7      39mil (1mm)                                               Round             2         NPTH       0.31inch (7.98mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              72
+
+Total Processing Time (hh:mm:ss) : 00:00:00
