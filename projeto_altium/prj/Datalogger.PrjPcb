@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for Datalogger
 LogFolderPath=
 ManagedProjectGUID=
 VaultGUID=1B775E07-3883-4F46-BFDD-6A7ADF0C69B3
@@ -309,15 +309,231 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Datalogger\DRC\datalogger.html
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Datalogger\ERC\Datalogger.html
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=..\out\Assembly\Assembly Files\Pick Place\Datalogger.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=..\out\Fabrication\Fabrication Files\NC Drill\Datalogger.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Datalogger\DRC\datalogger.html
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Datalogger\ERC\Datalogger.html
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\out\Assembly\Assembly Files\Test Points\Datalogger.ipc
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=..\out\Fabrication\Fabrication Files\Test Points\Datalogger.ipc
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Datalogger\Assembly Files\Test Points\Datalogger.ipc
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=..\out\Fabrication\Fabrication Files\NC Drill\Datalogger.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.REP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\Datalogger.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=..\out\Fabrication\Fabrication Files\Gerber\Datalogger.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=..\out\Assembly\Assembly Files\Pick Place\Datalogger.txt
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=..\out\Assembly\Assembly Files\Test Points\Datalogger.txt
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=..\out\Fabrication\Fabrication Files\NC Drill\Datalogger.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Datalogger\Assembly Files\Pick Place\Datalogger.txt
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Datalogger\Assembly Files\Test Points\Datalogger.txt
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=..\bom\BOM\Datalogger.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=..\out\Fabrication\Fabrication Files\BOM\Datalogger.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument35]
 DocumentPath=Project Outputs for Datalogger\Design Rule Check - datalogger.html
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=..\out\Fabrication\Fabrication Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Parameter1]
@@ -416,6 +632,9 @@ ProfileId0=GMMJRRLM
 ProfileName0=Mixed Sim Configuration
 OutputType0=AdvSimNetlist
 ConfigParameters0=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|TRAN_FourierAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source=|TF_Reference=0|PZ_Enabled=False|PZ_Node1=|PZ_Node2=0|PZ_Node3=|PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource=V?|DC_PrimaryStart=0|DC_PrimaryStop=5.000|DC_PrimaryStep=500.0m|DC_EnableSecondary=False|DC_SecondarySource=|DC_SecondaryStart=|DC_SecondaryStop=|DC_SecondaryStep=|Noise_Enabled=False|Noise_Source=|Noise_Output=|Noise_Reference=0|Noise_Start_UserValue=|Noise_Start=1K|Noise_Stop_UserValue=|Noise_Stop=1G|Noise_TestPoints_UserValue=|Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|AC_StartFrequency_UserValue=|AC_StartFrequency=1K|AC_StopFrequency_UserValue=|AC_StopFrequency=1G|AC_TestPoints_UserValue=|AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|TRAN_StartTime_UserValue=|TRAN_StartTime=0|TRAN_StopTime_UserValue=|TRAN_StopTime=5u|TRAN_StepTime_UserValue=|TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue=|TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue=|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue=|TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue=|TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue=|TRAN_FourierNumHarmonics=10|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue=|TempSweep_Start=-10|TempSweep_Stop_UserValue=|TempSweep_Stop=60|TempSweep_Step_UserValue=|TempSweep_Step=10|ParamSweep_Parameter1=R1|ParamSweep_Type1=LIN|ParamSweep_Start1=500.0|ParamSweep_Stop1=1.500k|ParamSweep_Step1=100.0|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2=|ParamSweep_Type2=LIN|ParamSweep_Start2=|ParamSweep_Stop2=|ParamSweep_Step2=|ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue=|Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue=|Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue=|Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue=|Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue=|Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue=|Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue=|OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue=|OPTION_DVCC=5|OPTION_DVDD_UserValue=|OPTION_DVDD=15|SheetsToNetlist=0|ParamSweep_CustomStart0_UserValue=|ParamSweep_CustomStop0_UserValue=|ParamSweep_CustomStep0_UserValue=|ParamSweep_Start1_UserValue=|ParamSweep_Stop1_UserValue=|ParamSweep_Step1_UserValue=|Sensitivity_ParameterDeviation0_UserValue=|LaunchDate=2022-03-05 11:01:02Z|DC_CustomStart0_UserValue=|DC_CustomStop0_UserValue=|DC_CustomStep0_UserValue=|DC_PrimaryStart_UserValue=|DC_PrimaryStop_UserValue=|DC_PrimaryStep_UserValue=|DC_CustomEnabled0=True|DC_CustomSource0=V?|DC_CustomStart0=0|DC_CustomStop0=5.000|DC_CustomStep0=500.0m|ParamSweep_CustomEnabled0=True|ParamSweep_CustomParameter0=R1|ParamSweep_CustomType0=LIN|ParamSweep_CustomStart0=500.0|ParamSweep_CustomStop0=1.500k|ParamSweep_CustomStep0=100.0|Sensitivity_ParameterEnabled0=True|Sensitivity_Parameter0=R1|Sensitivity_ParameterDeviation0=1m
+
+[Generic_EDE]
+OutputDir=Project Outputs for Datalogger
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1402,17 +1621,6 @@ NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
-[Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-
-[SmartPDF]
-PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-
 [LibraryUpdateOptions]
 SelectedOnly=1
 UpdateVariants=1
@@ -1522,4 +1730,15 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
