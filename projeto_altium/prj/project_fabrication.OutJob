@@ -179,7 +179,7 @@ PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration6_Name1=ColumnNameFormat
 Configuration6_Item1=CaptionAsName
 Configuration6_Name2=General
-Configuration6_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Public\Documents\Altium\AD22\Templates\BOM Template Single Supplier.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration6_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=D:\Documentos\repos\GitHub\projeto_altium\misc\template_bom.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration6_Name3=GroupOrder
 Configuration6_Item3=Comment=True|Footprint=True
 Configuration6_Name4=SortOrder
@@ -194,15 +194,15 @@ Configuration6_Name8=VisibleOrder_Flat
 Configuration6_Item8=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision Status=100|Manufacturer 1=100|Manufacturer Part Number 1=100|Manufacturer Lifecycle 1=100|Supplier 1=100|Supplier Part Number 1=100|Supplier Unit Price 1=100|Supplier Subtotal 1=100
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Public\Documents\Altium\RS-SE\OutputType\RS-SE.PDF
-ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Datalogger
+OutputFilePath2=D:\Documentos\repos\GitHub\projeto_altium\out\Fabrication\OutputType\Datalogger.PDF
+ReleaseManaged2=0
+OutputBasePath2=..\out\Fabrication\
 OutputPathMedia2==OutputType
 OutputPathMediaValue2==OutputType
 OutputPathOutputer2=[Output Name]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2==ProjectName
-OutputFileName2=mobit_fabrication.PDF
+OutputFileName2=project_fabrication.PDF
 OutputFileNameMulti2==DOC_NO_FAB_DWG+'_'+'FAB'
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2==ProjectName
@@ -245,10 +245,10 @@ MarkNetLabels3=1
 MarkPortsId3=1
 WebOutputMediumType3=FS
 OutputDirectory3=
-OutputFilePath4=Z:\shared_files\pessoal\dataloggerTcc\projeto_altium\out\Fabrication\Fabrication Files\
+OutputFilePath4=D:\Documentos\repos\GitHub\projeto_altium\out\Fabrication\
 ReleaseManaged4=0
 OutputBasePath4=..\out\Fabrication\
-OutputPathMedia4=[Media Name]
+OutputPathMedia4=
 OutputPathMediaValue4==OutputType
 OutputPathOutputer4=[Output Type]
 OutputPathOutputerPrefix4=
@@ -260,11 +260,11 @@ OutputFileNameSpecial4=
 OpenOutput4=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Public\Documents\Altium\RS-SE\OutputType\RS-SE.PDF
+RelativeOutputPath2=D:\Documentos\repos\GitHub\projeto_altium\out\Fabrication\OutputType\Datalogger.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
-RelativeOutputPath4=Z:\shared_files\pessoal\dataloggerTcc\projeto_altium\out\Fabrication\Fabrication Files\
+RelativeOutputPath4=D:\Documentos\repos\GitHub\projeto_altium\out\Fabrication\
 OpenOutputs4=0
 AddToProject4=1
 TimestampFolder4=0
